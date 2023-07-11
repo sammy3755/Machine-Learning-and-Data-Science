@@ -1,4 +1,4 @@
-#Machine Learning and Data Science Project
+# Machine Learning and Data Science Project
 This repository contains a collection of machine learning and data science projects that utilize popular datasets in the field. The projects explore different aspects of machine learning and data analysis, including classification, survival analysis, and feature engineering. The datasets used in these projects include the Iris dataset, the Breast Cancer dataset, and the Titanic dataset.
 
 Table of Contents
