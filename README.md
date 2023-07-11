@@ -9,10 +9,10 @@ Installation
 Usage
 Contributing
 License
-##Introduction
+## Introduction
 Machine learning and data science have revolutionized the way we extract valuable insights from data. This repository aims to provide practical examples and implementations of machine learning algorithms and data analysis techniques using popular datasets. Each project focuses on a specific problem or task, allowing you to explore various aspects of machine learning and data science.
 
-##Projects
+## Projects
 1. Iris Classification
 This project demonstrates a classic example of a classification problem using the Iris dataset. The Iris dataset is widely used for learning and teaching purposes due to its simplicity and clarity. The project includes data preprocessing, feature selection, and the application of various classification algorithms to predict the class labels of iris flowers accurately.
 
@@ -22,7 +22,7 @@ In this project, we tackle the task of breast cancer classification using the Br
 3. Survival Analysis on Titanic Dataset
 Survival analysis is an essential technique in data science, especially when dealing with time-to-event data. In this project, we perform survival analysis on the Titanic dataset, which contains information about passengers on the Titanic and whether they survived or not. We explore various survival analysis techniques to analyze factors influencing survival and create predictive models for survival probability.
 
-##Dataset Descriptions
+## Dataset Descriptions
 This repository utilizes three popular datasets:
 
 1. Iris Dataset
@@ -34,14 +34,14 @@ The Breast Cancer dataset contains various features computed from digitized imag
 3. Titanic Dataset
 The Titanic dataset is a classic dataset used for survival analysis. It includes information about passengers on the Titanic, such as age, sex, ticket class, and whether they survived or not. The dataset is used to explore factors influencing survival and to build predictive models for survival probability.
 
-##Installation
+## Installation
 Clone this repository to your local machine using git clone [project repo]
 Install the required dependencies listed in the requirements.txt file using pip install -r requirements.txt.
 Usage
 Each project is contained in a separate directory within this repository. Navigate to the desired project directory to access the project files and notebooks. Follow the instructions provided within each project's directory to execute the code and reproduce the results.
 
-##Contributing
+## Contributing
 Contributions to this repository are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. Make sure to follow the existing coding style and provide detailed information about your changes.
 
-##License
+## License
 This project is licensed under the MIT License. Feel free to use the code and modify it according to your needs.
